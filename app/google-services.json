@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "699845927470",
+    "firebase_url": "https://mapoftrash-25337-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mapoftrash-25337",
+    "storage_bucket": "mapoftrash-25337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699845927470:android:3dc9a6f94ceb53c90cb5bf",
+        "android_client_info": {
+          "package_name": "com.example.mapoftrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699845927470-47lbbrmffi4ofn9pntoitdu2o8g9hfhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHUo2MTTtLjv3x4_gk3obA_wtNUIOu20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699845927470-47lbbrmffi4ofn9pntoitdu2o8g9hfhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699845927470:android:4dc70dbb3b98241e0cb5bf",
+        "android_client_info": {
+          "package_name": "com.example.trashmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699845927470-47lbbrmffi4ofn9pntoitdu2o8g9hfhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHUo2MTTtLjv3x4_gk3obA_wtNUIOu20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699845927470-47lbbrmffi4ofn9pntoitdu2o8g9hfhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

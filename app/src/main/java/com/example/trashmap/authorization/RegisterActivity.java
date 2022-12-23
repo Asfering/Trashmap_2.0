@@ -28,11 +28,13 @@ public class RegisterActivity extends AppCompatActivity {
     private Button regSignUp;
     private FirebaseAuth myAuth;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
         init();
+
 
         regSignUp.setOnClickListener(new View.OnClickListener() {
             @Override
